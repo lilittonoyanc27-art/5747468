@@ -1,0 +1,6 @@
+{
+  "name": "¡Preparado para el Examen! - Lengua 1.º ESO",
+  "description": "Superaplicación interactiva de preparación para el examen de Lengua Castellana y Literatura 1.º de ESO con explicaciones en español y armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
